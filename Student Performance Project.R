@@ -120,4 +120,8 @@ results <- round(results, 15)
 #table summary
 model_names <- c("X1","X2","X3","X4","X1, X2","X1, X3","X1, X4","X2, X3","X2, X4","X3, X4", "X1, X2, X3","X1, X2, X4","X1, X3, X4","X2, X3, X4", "X1, X2, X3, X4")
 final_table <- data.frame(Model = 1:15, Variables = model_names, results)
+
 print(final_table)
+
+#plot model 
+plot(model)
