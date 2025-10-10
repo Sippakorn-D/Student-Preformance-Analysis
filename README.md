@@ -1,4 +1,6 @@
-# Student-Performance-Analysis
+# Student-Performance-Analysis  
+I have some project that my professor in Regression & Correlation Analysis has told to find some Dataset to Forecasting and Application Knowledge. So that i'm Decide to Predict Performance Index from 10K Student  
+
 ### About Data
 The Student Performance Dataset is a dataset designed to examine the factors influencing academic student performance. The dataset consists of 10,000 student records, with each record containing information about various predictors and a performance index.
 
