@@ -1,4 +1,5 @@
 # Student-Performance-Analysis  
+## Description for this Project
 I have some project that my professor in Regression & Correlation Analysis has told to find some Dataset to Forecasting and Application Knowledge. So that i'm Decide to Predict Performance Index from 10K Student  
 
 ### About Data
@@ -14,3 +15,31 @@ The Student Performance Dataset is a dataset designed to examine the factors inf
 * Performance Index: A measure of the overall performance of each student. The performance index represents the student's academic performance and has been rounded to the nearest integer. The index ranges from 10 to 100, with higher values indicating better performance.
 
 Resources: https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression
+
+## Analysis Process
+
+### First step : Preparation raw data to Analysis (With Python)  
+1) EDA Data
+2) Cleansing Missing Value & Outlier
+3) Add dummy Variable
+4) Svae Cleaned Data
+
+### Seccond step : Analysis by Multiple Regression (With R)
+1) Before Build Model
+* Linearlity Check : By Correlation
+* VIF (Overfit Checking)
+
+2) Building Model
+* Build Multiple Regression
+* influence Check and Delete
+* Select The Best Model with MSE , R-Square , R-Square ADJ , Cp , PRESS
+* Select The Best Model with Stepwise Regression Method
+
+3) After Builded Model
+* Independent Check : By Anderson-Darling Test
+* Normality Check : By Durbin-Watson Test
+* Equality Check : By Breusch-Pagan Test
+
+### Final step : Summary result  
+
+Poster :
