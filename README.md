@@ -19,7 +19,7 @@ Resources: https://www.kaggle.com/datasets/nikhil7280/student-performance-multip
 ## Analysis Process
 
 ### First step : Preparation raw data to Analysis (With Python)  
-1) EDA Dataset
+1) Exploratory data analysis
 2) Cleansing Missing Value & Outlier
 3) Add dummy Variable
 4) Svae Cleaned Data
