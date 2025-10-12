@@ -22,7 +22,7 @@ Resources: https://www.kaggle.com/datasets/nikhil7280/student-performance-multip
 1) Exploratory data analysis
 2) Cleansing Missing Value & Outlier
 3) Add dummy Variable
-4) Svae Cleaned Data
+4) Save Cleaned Data
 
 ### Seccond step : Analysis by Multiple Regression (With R)
 1) Before Build Model
