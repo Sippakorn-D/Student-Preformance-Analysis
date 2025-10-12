@@ -42,4 +42,4 @@ Resources: https://www.kaggle.com/datasets/nikhil7280/student-performance-multip
 
 ### Final step : Summary result  
 
-Poster :
+Poster : https://drive.google.com/file/d/1v4_sxETVVa9EEL03b_4S31_o834Fv2nv/view?usp=sharing
